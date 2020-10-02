@@ -1,6 +1,6 @@
 {
   "name": "x-chalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple colored terminal output - wrapper around `chalk`",
   "repository": "github:jaredh159/x-chalk",
   "main": "./dist/index.js",
